@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda"
+        android:title="Beranda"
+        android:icon="@drawable/beranda"
+        />
+
+    <item
+        android:id="@+id/pindai"
+        android:title="Pindai"
+        android:icon="@drawable/scan"
+        />
+
+    <item
+        android:id="@+id/panduan"
+        android:title="Panduan"
+        android:icon="@drawable/panduan"
+        />
+</menu>
