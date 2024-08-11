@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905200145688",
+    "project_id": "fishqapp",
+    "storage_bucket": "fishqapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905200145688:android:92efbd4aa3a4dedc9e3a6d",
+        "android_client_info": {
+          "package_name": "com.android.fishq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4owQgA2MJ7IeTHsO5J9D2tv79pK-7Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
